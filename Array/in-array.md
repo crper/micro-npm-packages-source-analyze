@@ -2,6 +2,7 @@
 
 > Return true if a value exists in an array. Faster than using indexOf and won't blow up on null values.
 
+> npm: [in-array - npm](https://www.npmjs.com/package/in-array)
 
 ```javascript
 
@@ -34,4 +35,4 @@ module.exports = function inArray (arr, val) {
 
 ```
 
-!> 我感觉我的智商给碾压了,只是单纯的考虑了一些基础数据类型的比较和遍历
+> 我感觉我的智商给碾压了,只是单纯的考虑了一些基础数据类型的比较和遍历
